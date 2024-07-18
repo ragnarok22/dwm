@@ -39,6 +39,7 @@ like this in your .xinitrc:
 - [alwayscenter](https://dwm.suckless.org/patches/alwayscenter/) - centers windows when they are created in floating mode
 - [attachbottom](https://dwm.suckless.org/patches/attachbottom/) - new clients attach at the bottom of the stack
 - [fibonacci](https://dwm.suckless.org/patches/fibonacci/) - adds fibonacci layout
+- [hide vacant tags](https://dwm.suckless.org/patches/hide_vacant_tags/) - hides tags with no clients
 - [movestack](https://dwm.suckless.org/patches/movestack/) - move clients around in the stack and swap them with the master
 - [pertag](https://dwm.suckless.org/patches/pertag/) - maintains layout and mwfact per tag
 - [splitstatus](https://dwm.suckless.org/patches/splitstatus/) - replaces the standard statusbar items with two status items: one in the centre, and one on the right.
